@@ -1,4 +1,4 @@
--- INSERT INTO clientes_saldos
+INSERT INTO clientes_saldos
 SELECT CONSULTA.CODIGO 						AS CODIGO
 		,CONSULTA.cliente						AS cliente
 		,CONSULTA.TELEFONO						AS TELEFONO
